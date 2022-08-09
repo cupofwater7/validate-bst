@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # validate-bst
 
+Difficulty: medium
 
   Write a function that takes in a potentially invalid Binary Search Tree (BST)
   and returns a boolean representing whether the BST is valid. Each BST node has an integer value , a
